@@ -6,3 +6,4 @@ This is Sample File 2
 
 
 This is comparision lecture
+This is Stash lecture, change in file 2
